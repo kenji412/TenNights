@@ -1,7 +1,7 @@
 _G.PRED = 0.025
 local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/kenji412/Ten-nights-source/main/Source"))()
 Aiming.TeamCheck(false)
-Aiming.ShowFOV = true
+Aiming.ShowFOV = false
 Aiming.FOV = 74.7
 -- // Services
 local Workspace = game:GetService("Workspace")
